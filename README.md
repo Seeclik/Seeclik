@@ -4,10 +4,13 @@
 </h3>
 
 ---
-### *Recent Honors Computer Science graduate with a refined focus on Data Analysis and Artificial Intelligence. Fluent in Python, Excel, and Power BI, I excel at weaving raw statistics into compelling narratives that drive strategic growth.*
+### *Honors Computer Science graduate specializing in Data Analysis and Artificial Intelligence. Skilled in Python, Power BI, and Excel, with a strong focus on turning data into actionable insights.*
+### 🔍 *Interested in data analytics, machine learning, and real-world business insights.*
 
 📬 *Reach me at: <a href="mailto:Khalid.A.Alammari@gmail.com">Khalid.A.Alammari@gmail.com</a>*
+
 <!--/<h3 align="left">Connect with m:</h3>-->
+
 ###  *Connect with me*
 <p align="left">
   <a href="https://www.linkedin.com/in/khalid-alammari-/" target="_blank">
