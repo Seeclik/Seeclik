@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khalid Alammari</h1>
-<h3 align="center">Assionate about using data science</h3>
+<h3 align="center">Driven by a passion for uncovering insights through data science.
+
+</h3>
 
 ---
 ### *Recent Honors Computer Science graduate with a refined focus on Data Analysis and Artificial Intelligence. Fluent in Python, Excel, and Power BI, I excel at weaving raw statistics into compelling narratives that drive strategic growth.*
